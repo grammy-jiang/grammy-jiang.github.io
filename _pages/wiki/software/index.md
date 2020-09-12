@@ -24,7 +24,7 @@ sidebar:
 | Packaging                     |       |    |      |                          | [Link][python: packaging]                   |
 | Object-Oriented Programming   |       |    |      |                          | [Link][python: object-oriented programming] |
 | Testing                       |       |    |      |                          | [Link][python: testing]                     |
-| Virtual Environment           |       |    |      |                          | [Link][python: virtual environment]         |
+| Virtual Environment           |       |    |      |                          | [Link][python: virtual-environment]         |
 
 [javascript]: programming_language_essential/javascript.md
 [python]: programming_language_essential/python.md
