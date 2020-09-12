@@ -71,7 +71,7 @@ author:
       url: "https://github.com/grammy-jiang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/grammyjiang/"
 
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       url: "https://github.com/grammy-jiang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/grammyjiang/"
 
 defaults:
   # _posts
