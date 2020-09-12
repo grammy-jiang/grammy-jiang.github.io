@@ -80,6 +80,8 @@ sidebar:
 * [The Python Standard Library — Python 3 documentation](https://docs.python.org/3/library/index.html)
 * [The Python 3 Standard Library by Example – Doug Hellmann](https://doughellmann.com/blog/the-python-3-standard-library-by-example/)
 
+## Packaging
+
 ## Object-Oriented Programming
 
 * [9. Classes — Python 3 documentation](https://docs.python.org/3/tutorial/classes.html)
@@ -90,3 +92,5 @@ sidebar:
 * [pytest: helps you write better programs — pytest documentation](https://docs.pytest.org/en/stable/)
 * [Welcome to the tox automation project — tox documentation](https://tox.readthedocs.io/en/latest/)
 * [nedbat/coveragepy: Code coverage measurement for Python](https://github.com/nedbat/coveragepy)
+
+## Virtual Environment
