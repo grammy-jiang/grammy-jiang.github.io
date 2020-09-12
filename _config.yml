@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Grammy Jiang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Do one thing, do it well."
+  name: "Grammy Jiang"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Do one thing, do it well."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -97,6 +97,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -111,3 +112,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-164665432-1"
+    anonymize_ip: false # default
