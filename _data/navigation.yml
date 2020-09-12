@@ -9,3 +9,17 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+wiki:
+  - title: "MOOC"
+    url: /wiki/mooc/
+  - title: "University"
+    url: /wiki/university/
+  - title: "Gambling"
+    url: /wiki/gambling/
+  - title: "Stock"
+    url: /wiki/stock/
+  - title: "Hardware"
+    url: /wiki/hardware/
+  - title: "Software"
+    url: /wiki/software/
