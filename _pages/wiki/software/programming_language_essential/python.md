@@ -102,3 +102,8 @@ sidebar:
 * [nedbat/coveragepy: Code coverage measurement for Python](https://github.com/nedbat/coveragepy)
 
 ## Virtual Environment
+
+* [Virtualenv — virtualenv documentation](https://virtualenv.pypa.io/en/latest/)
+* [virtualenvwrapper — virtualenvwrapper documentation](https://virtualenvwrapper.readthedocs.io/en/latest/)
+* [Pipenv: Python Dev Workflow for Humans — pipenv documentation](https://pipenv.pypa.io/en/latest/)
+* [Poetry - Python dependency management and packaging made easy.](https://python-poetry.org/)
