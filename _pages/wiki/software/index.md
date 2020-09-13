@@ -61,3 +61,23 @@ sidebar:
 [python: packaging]: programming_language_essential/python.md#packaging
 [python: testing]: programming_language_essential/python.md#testing
 [python: virtual-environment]: programming_language_essential/python.md#virtual-environment
+
+## Database
+
+* [MySQL](https://www.mysql.com/)
+  * [mycli](https://www.mycli.net/)
+  * [phpMyAdmin](https://www.phpmyadmin.net/)
+* [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
+  * [Psql](http://postgresguide.com/utilities/psql.html)
+  * [pgAdmin - PostgreSQL Tools](https://www.pgadmin.org/)
+  * [pgcli](https://www.pgcli.com/)
+* [Redis](https://redis.io/)
+  * [redis-cli, the Redis command line interface – Redis](https://redis.io/topics/rediscli)
+  * [RedisInsight - Redis](https://redislabs.com/redis-enterprise/redis-insight/)
+* [The most popular database for modern apps \| MongoDB](https://www.mongodb.com/)
+  * [Compass \| MongoDB](https://www.mongodb.com/products/compass)
+  * [The mongo Shell — MongoDB Manual](https://docs.mongodb.com/manual/mongo/)
+* [Apache Cassandra](https://cassandra.apache.org/)
+* [Open-Source Multi-Model Database For Graph, Document and Search](https://www.arangodb.com/)
+* [Neo4j Graph Platform – The Leader in Graph Databases](https://neo4j.com/)
+* [Home \| OrientDB Community Edition](http://orientdb.org/)
