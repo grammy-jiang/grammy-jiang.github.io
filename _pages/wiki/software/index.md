@@ -21,8 +21,8 @@ sidebar:
 | Functional Programming        |       |    |      |                          | [Link][python: functional programming]      |
 | High Performance              |       |    |      |                          | [Link][python: high performance]            |
 | Library                       |       |    |      |                          | [Link][python: library]                     |
-| Packaging                     |       |    |      |                          | [Link][python: packaging]                   |
 | Object-Oriented Programming   |       |    |      |                          | [Link][python: object-oriented programming] |
+| Packaging                     |       |    |      |                          | [Link][python: packaging]                   |
 | Testing                       |       |    |      |                          | [Link][python: testing]                     |
 | Virtual Environment           |       |    |      |                          | [Link][python: virtual-environment]         |
 
@@ -40,7 +40,7 @@ sidebar:
 [python: functional programming]: programming_language_essential/python.md#functional-programming
 [python: high performance]: programming_language_essential/python.md#high-performance
 [python: library]: programming_language_essential/python.md#library
-[python: packaging]: programming_language_essential/python.md#packaging
 [python: object-oriented programming]: programming_language_essential/python.md#object-oriented-programming
+[python: packaging]: programming_language_essential/python.md#packaging
 [python: testing]: programming_language_essential/python.md#testing
 [python: virtual-environment]: programming_language_essential/python.md#virtual-environment
