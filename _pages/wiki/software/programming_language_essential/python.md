@@ -31,9 +31,11 @@ sidebar:
 ## Debugging
 
 * [Debugging and Profiling — Python 3 documentation](https://docs.python.org/3/library/debug.html)
-* [pdb — The Python Debugger — Python 3 documentation](https://docs.python.org/3/library/pdb.html)
-* [gotcha/ipdb: Integration of IPython pdb](https://github.com/gotcha/ipdb) ([PyPI](https://pypi.org/project/ipdb/))
 * [GDB: The GNU Project Debugger](https://www.gnu.org/software/gdb/)
+* [Jupyter and the future of IPython — IPython](https://ipython.org/)
+* [Project Jupyter \| Home](https://jupyter.org/)
+* [gotcha/ipdb: Integration of IPython pdb](https://github.com/gotcha/ipdb) ([PyPI](https://pypi.org/project/ipdb/))
+* [pdb — The Python Debugger — Python 3 documentation](https://docs.python.org/3/library/pdb.html)
 
 ## Design Pattern
 
@@ -81,6 +83,10 @@ sidebar:
 * [The Python 3 Standard Library by Example – Doug Hellmann](https://doughellmann.com/blog/the-python-3-standard-library-by-example/)
 
 ## Machine Learning
+
+* [PyTorch](https://pytorch.org/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [scikit-learn: machine learning in Python — scikit-learn documentation](https://scikit-learn.org/stable/)
 
 ## Packaging
 
