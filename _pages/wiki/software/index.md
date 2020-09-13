@@ -21,6 +21,7 @@ sidebar:
 | Functional Programming        |       |    |      | [Link][javascript: functional programming]      | [Link][python: functional programming]      |
 | High Performance              |       |    |      | [Link][javascript: high performance]            | [Link][python: high performance]            |
 | Library                       |       |    |      | [Link][javascript: library]                     | [Link][python: library]                     |
+| Machine Learning              |       |    |      | [Link][javascript: machine-learning]            | [Link][python: machine-learning]            |
 | Object-Oriented Programming   |       |    |      | [Link][javascript: object-oriented programming] | [Link][python: object-oriented programming] |
 | Packaging                     |       |    |      | [Link][javascript: packaging]                   | [Link][python: packaging]                   |
 | Testing                       |       |    |      | [Link][javascript: testing]                     | [Link][python: testing]                     |
@@ -39,6 +40,7 @@ sidebar:
 [javascript: functional programming]: programming_language_essential/javascript.md#functional-programming
 [javascript: high performance]: programming_language_essential/javascript.md#high-performance
 [javascript: library]: programming_language_essential/javascript.md#library
+[javascript: machine-learning]: programming_language_essential/javascript.md#machine-learning
 [javascript: object-oriented programming]: programming_language_essential/javascript.md#object-oriented-programming
 [javascript: packaging]: programming_language_essential/javascript.md#packaging
 [javascript: testing]: programming_language_essential/javascript.md#testing
@@ -57,6 +59,7 @@ sidebar:
 [python: functional programming]: programming_language_essential/python.md#functional-programming
 [python: high performance]: programming_language_essential/python.md#high-performance
 [python: library]: programming_language_essential/python.md#library
+[python: machine-learning]: programming_language_essential/python.md#machine-learning
 [python: object-oriented programming]: programming_language_essential/python.md#object-oriented-programming
 [python: packaging]: programming_language_essential/python.md#packaging
 [python: testing]: programming_language_essential/python.md#testing
