@@ -18,8 +18,9 @@ sidebar:
 
 ## Data Handling
 
-* [Immutable.js](https://immutable-js.github.io/immutable-js/) ([Github](https://github.com/facebook/immutable-js/))
 * [D3.js - Data-Driven Documents](https://d3js.org/) ([Github](https://github.com/d3/d3))
+* [Immutable.js](https://immutable-js.github.io/immutable-js/) ([Github](https://github.com/facebook/immutable-js/))
+* [opensource9ja/danfojs: danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.](https://github.com/opensource9ja/danfojs)
 
 ## Data Structure
 
