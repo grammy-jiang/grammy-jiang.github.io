@@ -24,7 +24,3 @@ sidebar:
 
 * [Daily Stock Market Overview, Data Updates, Reports & News \| Nasdaq](https://www.nasdaq.com/)
   * [Stock Splits Calendar \| Nasdaq](https://www.nasdaq.com/market-activity/stock-splits)
-
-## Books
-
-* [Financial Markets and Institutions](https://www.mheducation.com/highered/product/financial-markets-institutions-saunders-cornett/M9781259919718.html)
