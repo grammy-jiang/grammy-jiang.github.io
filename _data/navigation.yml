@@ -1,4 +1,6 @@
 main:
+  - title: "Paper"
+    url: /paper/
   - title: "Wiki"
     url: /wiki/
   - title: "Posts"
