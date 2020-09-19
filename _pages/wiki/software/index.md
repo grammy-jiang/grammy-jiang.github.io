@@ -84,3 +84,4 @@ sidebar:
 * [Open-Source Multi-Model Database For Graph, Document and Search](https://www.arangodb.com/)
 * [Neo4j Graph Platform – The Leader in Graph Databases](https://neo4j.com/)
 * [Home \| OrientDB Community Edition](http://orientdb.org/)
+* [TerminusDB](https://terminusdb.com/)
