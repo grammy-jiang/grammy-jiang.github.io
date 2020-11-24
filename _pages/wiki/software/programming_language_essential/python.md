@@ -46,6 +46,9 @@ sidebar:
 * [ionelmc/pytest-benchmark: py.test fixture for benchmarking code](https://github.com/ionelmc/pytest-benchmark)
 * [python/pyperformance: Python Performance Benchmark Suite](https://github.com/python/pyperformance)
 * [pythonprofilers/memory_profiler: Monitor Memory usage of Python code](https://github.com/pythonprofilers/memory_profiler)
+* [pympler/pympler: Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.](https://github.com/pympler/pympler)
+* [Python Object Graphs — objgraph 3.5.0 documentation](https://mg.pov.lt/objgraph/)
+* [zhuyifei1999/guppy3: guppy / heapy ported to Python3. It works for real!](https://github.com/zhuyifei1999/guppy3/)
 
 ## Design Pattern
 
