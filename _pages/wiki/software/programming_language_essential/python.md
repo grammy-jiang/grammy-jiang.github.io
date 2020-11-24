@@ -41,8 +41,11 @@ sidebar:
 
 * [Debugging and Profiling — Python 3.9.0 documentation](https://docs.python.org/3/library/debug.html)
 * [The Python Profilers — Python 3.9.0 documentation](https://docs.python.org/3/library/profile.html)
+  * [trace — Trace or track Python statement execution — Python 3.9.0 documentation](https://docs.python.org/3/library/trace.html)
+  * [tracemalloc — Trace memory allocations — Python 3.9.0 documentation](https://docs.python.org/3/library/tracemalloc.html)
 * [ionelmc/pytest-benchmark: py.test fixture for benchmarking code](https://github.com/ionelmc/pytest-benchmark)
 * [python/pyperformance: Python Performance Benchmark Suite](https://github.com/python/pyperformance)
+* [pythonprofilers/memory_profiler: Monitor Memory usage of Python code](https://github.com/pythonprofilers/memory_profiler)
 
 ## Design Pattern
 
