@@ -37,6 +37,13 @@ sidebar:
 * [gotcha/ipdb: Integration of IPython pdb](https://github.com/gotcha/ipdb) ([PyPI](https://pypi.org/project/ipdb/))
 * [pdb — The Python Debugger — Python 3 documentation](https://docs.python.org/3/library/pdb.html)
 
+## Profiling
+
+* [Debugging and Profiling — Python 3.9.0 documentation](https://docs.python.org/3/library/debug.html)
+* [The Python Profilers — Python 3.9.0 documentation](https://docs.python.org/3/library/profile.html)
+* [ionelmc/pytest-benchmark: py.test fixture for benchmarking code](https://github.com/ionelmc/pytest-benchmark)
+* [python/pyperformance: Python Performance Benchmark Suite](https://github.com/python/pyperformance)
+
 ## Design Pattern
 
 * [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
@@ -98,6 +105,7 @@ sidebar:
 
 * [unittest — Unit testing framework — Python 3 documentation](https://docs.python.org/3/library/unittest.html)
 * [pytest: helps you write better programs — pytest documentation](https://docs.pytest.org/en/stable/)
+  * [ionelmc/pytest-benchmark: py.test fixture for benchmarking code](https://github.com/ionelmc/pytest-benchmark)
 * [Welcome to the tox automation project — tox documentation](https://tox.readthedocs.io/en/latest/)
 * [nedbat/coveragepy: Code coverage measurement for Python](https://github.com/nedbat/coveragepy)
 
