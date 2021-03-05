@@ -73,5 +73,5 @@ sidebar:
   
 ### WebDriver
 
-* [WebDriver | MDN](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
+* [WebDriver \| MDN](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
 * [ChromeDriver - WebDriver for Chrome](https://chromedriver.chromium.org/)
