@@ -58,7 +58,20 @@ sidebar:
     * [Guides | Node.js](https://nodejs.org/en/docs/guides/)
     * [Dependencies | Node.js](https://nodejs.org/en/docs/meta/topics/dependencies/)
     * [Index | Node.js v14.16.0 Documentation](https://nodejs.org/dist/latest-v14.x/docs/api/)
+* [npm | build amazing things](https://www.npmjs.com/)
+  * [npm Docs](https://docs.npmjs.com/)
 
 ## Virtual Environment
 
 * [nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)
+
+## Miscellaneous
+
+* [Puppeteer v8.0.0](https://pptr.dev/) ([Github](https://github.com/puppeteer/puppeteer))
+  * [Try Puppeteer](https://try-puppeteer.appspot.com/)
+* [Angular](https://angular.io/) ([Documentation](https://angular.io/docs), [Github](https://github.com/angular/angular))
+  
+### WebDriver
+
+* [WebDriver | MDN](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
+* [ChromeDriver - WebDriver for Chrome](https://chromedriver.chromium.org/)
