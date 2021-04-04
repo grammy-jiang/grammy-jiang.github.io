@@ -2,7 +2,7 @@
 permalink: /wiki/software/programming_language_essential/html/
 title: "HyperText Markup Language (HTML)"
 sidebar:
-nav: "wiki"
+  nav: "wiki"
 ---
 
 ## Basic Grammar

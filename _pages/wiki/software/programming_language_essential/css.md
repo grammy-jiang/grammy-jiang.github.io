@@ -2,7 +2,7 @@
 permalink: /wiki/software/programming_language_essential/css/
 title: "Cascading Style Sheets (CSS)"
 sidebar:
-nav: "wiki"
+  nav: "wiki"
 ---
 
 ## Basic Grammar
