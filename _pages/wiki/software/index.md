@@ -7,25 +7,25 @@ sidebar:
 
 ## Programming Language Essential
 
-|                               | C/C++ | Go | Java | [JavaScript][javascript]                        | [Python][python]                            |
-|-------------------------------|-------|----|------|-------------------------------------------------|---------------------------------------------|
-| Algorithms                    |       |    |      | [Link][javascript: algorithms]                  | [Link][python: algorithms]                  |
-| Basic Grammar                 |       |    |      | [Link][javascript: basic grammar]               | [Link][python: basic grammar]               |
-| Code Quality                  |       |    |      | [Link][javascript: code quality]                | [Link][python: code quality]                |
-| Code Style                    |       |    |      | [Link][javascript: code style]                  | [Link][python: code style]                  |
-| Data Handling                 |       |    |      | [Link][javascript: data handling]               | [Link][python: data handling]               |
-| Data Structure                |       |    |      | [Link][javascript: data structure]              | [Link][python: data structure]              |
-| Debugging                     |       |    |      | [Link][javascript: debugging]                   | [Link][python: debugging]                   |
-| Design Pattern                |       |    |      | [Link][javascript: design pattern]              | [Link][python: design pattern]              |
-| Exception Handling            |       |    |      | [Link][javascript: exception handling]          | [Link][python: exception handling]          |
-| Functional Programming        |       |    |      | [Link][javascript: functional programming]      | [Link][python: functional programming]      |
-| High Performance              |       |    |      | [Link][javascript: high performance]            | [Link][python: high performance]            |
-| Library                       |       |    |      | [Link][javascript: library]                     | [Link][python: library]                     |
-| Machine Learning              |       |    |      | [Link][javascript: machine-learning]            | [Link][python: machine-learning]            |
-| Object-Oriented Programming   |       |    |      | [Link][javascript: object-oriented programming] | [Link][python: object-oriented programming] |
-| Packaging                     |       |    |      | [Link][javascript: packaging]                   | [Link][python: packaging]                   |
-| Testing                       |       |    |      | [Link][javascript: testing]                     | [Link][python: testing]                     |
-| Virtual Environment           |       |    |      | [Link][javascript: virtual-environment]         | [Link][python: virtual-environment]         |
+|                               | C/C++ | Go | Java | [JavaScript][javascript]                        | [Python][python]                            | [CSS][css] |
+|-------------------------------|-------|----|------|-------------------------------------------------|---------------------------------------------|------------|
+| Algorithms                    |       |    |      | [Link][javascript: algorithms]                  | [Link][python: algorithms]                  |            |
+| Basic Grammar                 |       |    |      | [Link][javascript: basic grammar]               | [Link][python: basic grammar]               |            |
+| Code Quality                  |       |    |      | [Link][javascript: code quality]                | [Link][python: code quality]                |            |
+| Code Style                    |       |    |      | [Link][javascript: code style]                  | [Link][python: code style]                  |            |
+| Data Handling                 |       |    |      | [Link][javascript: data handling]               | [Link][python: data handling]               |            |
+| Data Structure                |       |    |      | [Link][javascript: data structure]              | [Link][python: data structure]              |            |
+| Debugging                     |       |    |      | [Link][javascript: debugging]                   | [Link][python: debugging]                   |            |
+| Design Pattern                |       |    |      | [Link][javascript: design pattern]              | [Link][python: design pattern]              |            |
+| Exception Handling            |       |    |      | [Link][javascript: exception handling]          | [Link][python: exception handling]          |            |
+| Functional Programming        |       |    |      | [Link][javascript: functional programming]      | [Link][python: functional programming]      |            |
+| High Performance              |       |    |      | [Link][javascript: high performance]            | [Link][python: high performance]            |            |
+| Library                       |       |    |      | [Link][javascript: library]                     | [Link][python: library]                     |            |
+| Machine Learning              |       |    |      | [Link][javascript: machine-learning]            | [Link][python: machine-learning]            |            |
+| Object-Oriented Programming   |       |    |      | [Link][javascript: object-oriented programming] | [Link][python: object-oriented programming] |            |
+| Packaging                     |       |    |      | [Link][javascript: packaging]                   | [Link][python: packaging]                   |            |
+| Testing                       |       |    |      | [Link][javascript: testing]                     | [Link][python: testing]                     |            |
+| Virtual Environment           |       |    |      | [Link][javascript: virtual-environment]         | [Link][python: virtual-environment]         |            |
 
 [javascript]: programming_language_essential/javascript.md
 [javascript: algorithms]: programming_language_essential/javascript.md#algorithms
@@ -64,6 +64,7 @@ sidebar:
 [python: packaging]: programming_language_essential/python.md#packaging
 [python: testing]: programming_language_essential/python.md#testing
 [python: virtual-environment]: programming_language_essential/python.md#virtual-environment
+[css]: programming_language_essential/css.md
 
 ## Database
 
