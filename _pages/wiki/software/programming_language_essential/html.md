@@ -16,4 +16,4 @@ nav: "wiki"
 
 ## Miscellaneous
 
-* [HTML5 - Developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [HTML5 - Developer guides \| MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
