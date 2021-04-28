@@ -10,6 +10,7 @@ sidebar:
 ## Basic Grammar
 
 * [Welcome to Ecma International](https://www.ecma-international.org/) ([Wikipedia](https://en.wikipedia.org/wiki/ECMAScript))
+* [JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [TypeScript: Typed JavaScript at Any Scale.](https://www.typescriptlang.org/)
 
 ## Code Quality
@@ -60,6 +61,7 @@ sidebar:
     * [Index \| Node.js v14.16.0 Documentation](https://nodejs.org/dist/latest-v14.x/docs/api/)
 * [npm \| build amazing things](https://www.npmjs.com/)
   * [npm Docs](https://docs.npmjs.com/)
+* [Node.js ES2015/ES6, ES2016 and ES2017 support](https://node.green/)
 
 ## Virtual Environment
 
@@ -70,6 +72,7 @@ sidebar:
 * [Puppeteer v8.0.0](https://pptr.dev/) ([Github](https://github.com/puppeteer/puppeteer))
   * [Try Puppeteer](https://try-puppeteer.appspot.com/)
 * [Angular](https://angular.io/) ([Documentation](https://angular.io/docs), [Github](https://github.com/angular/angular))
+* [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
   
 ### WebDriver
 
