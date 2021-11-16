@@ -1,4 +1,6 @@
 main:
+  - title: "Football"
+    url: /football/
   - title: "Paper"
     url: /paper/
   - title: "Wiki"
